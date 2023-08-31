@@ -34,5 +34,16 @@
 </table>
 
 
+
+
+
+
+![details](https://github.com/mhd-atheel/criptoapp/assets/87352685/c5db1073-5d6f-4b1f-8052-784e463e10a1)
+
+
+![detailsexample 2](https://github.com/mhd-atheel/criptoapp/assets/87352685/1c66cf6a-72eb-4272-a5b5-c73371ad6c92)
+
+![sellandbuy_button](https://github.com/mhd-atheel/criptoapp/assets/87352685/0261e8ea-1566-463f-88a6-c9acf04ea2f0)
+
     
 
